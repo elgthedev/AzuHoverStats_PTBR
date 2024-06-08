@@ -1,0 +1,9 @@
+﻿{
+  "name": "AzuHoverStats_PTBR",
+  "description": "Tradução para o Português Brasileiro do mod AzuHoverStats.",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": [
+    "Azumatt-AzuHoverStats-1.1.6"
+  ]
+}
