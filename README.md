@@ -15,7 +15,7 @@ O mod original ainda precisa ser instalado e está listado como pré-requisito.
 - Coloque o arquivo ***.yml*** na pasta **Bepinex\config** do Valheim.
 
 <p>
-  <p align="center"><h2>Para questões, encontre Elg no Servidor do Discord Odin Plus:</h2></p>
+  <p align="center"><h2>Dúvidas? Encontre Elg no Servidor do Discord Odin Plus:</h2></p>
 
   <p align="center"><a href="https://discord.gg/mbkPcvu9ax"><img src="https://i.imgur.com/Ji3u63C.png" alt="Odin Plus Discord"></a>
 </p>
